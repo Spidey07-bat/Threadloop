@@ -1,0 +1,8 @@
+{
+  "name": "ThreadLoop - Fashion Resale \u0026 Exchange Marketplace",
+  "description": "Wear the trend. Pass it on. India\u0027s premier circular fashion marketplace to buy, sell, and exchange pre-owned clothes and fashion accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
